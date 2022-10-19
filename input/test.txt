@@ -1,0 +1,5 @@
+hello world
+helll sdfs
+sdfsd sdfsdf
+/Users/adun/java_software/bigDataHive/scalaDemo/input/test.txt
+input/test.txt
